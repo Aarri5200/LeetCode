@@ -1,1 +1,1 @@
-LeetCode Code
+LeetCode Codes
