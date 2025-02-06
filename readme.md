@@ -1,1 +1,1 @@
-ggLeetCode Codes
+gLeetCode Codes
